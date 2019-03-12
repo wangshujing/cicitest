@@ -26,14 +26,14 @@
 <body>
 	<table>
 		<tr align=center>
-			<td colspan="2"  bgcolor=#FFDAB9 width=8%>类目</td>
-			<td bgcolor=#FFDAB9 width=13%>图片下第一行</td>
-			<td bgcolor=#FFDAB9 width=13%>图片下第二行</td>
-			<td bgcolor=#FFDAB9>图片显示</td>
-			<td bgcolor=#FFDAB9 width=13%>默认图片</td>
-			<td bgcolor=#FFDAB9 width=13%>默认跳转链接</td>
-			<td bgcolor=#FFDAB9 width=13%>图片右下角压标</td>
-			<td bgcolor=#FFDAB9 width=12%>图片右上角压标</td>
+			<td colspan="2"  bgcolor=#FFDAB9 width=80>类目</td>
+			<td bgcolor=#FFDAB9 width=130>图片下第一行</td>
+			<td bgcolor=#FFDAB9 width=130>图片下第二行</td>
+			<td bgcolor=#FFDAB9 width=160>图片显示</td>
+			<td bgcolor=#FFDAB9 width=130>默认图片</td>
+			<td bgcolor=#FFDAB9 width=130>默认跳转链接</td>
+			<td bgcolor=#FFDAB9 width=160>图片右下角压标</td>
+			<td bgcolor=#FFDAB9 width=130>图片右上角压标</td>
 		</tr>
 		<tr align=center>
 			<td rowspan="2">专辑</td>
@@ -44,7 +44,7 @@
 			<td>最新一期视频图片</td>
 			<td>最新一期视频链接</td>
 			<td>**-**期</td>
-			<td rowspan="11">优先级：自制 > 独播 > 付费>用券 > VIP > 1080 > h5端默认压标    专题：专题</td>
+			<td rowspan="11">优先级：自制 > 独播 > 付费>用券 > VIP > 1080 > h5端默认压标    <br>专题：专题</td>
 		</tr>
 		<tr align=center>
 			<td>剧集类</td>
